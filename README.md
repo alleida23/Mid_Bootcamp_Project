@@ -26,7 +26,7 @@ After looking for data of fires in Catalonia since 1999, I attempted to build a 
 * Average Annual Rainfall (mm)
 * Use of Land (forest / agriculture / urban / no vegetation)
 
-##### All information has been exported from many of the tables included in:
+##### All information has been imported from many of the tables included in:
 
     * https://www.idescat.cat/indicadors/?id=aec&n=15177&lang=en  (“Environment and Territory” sub-folders)
 
