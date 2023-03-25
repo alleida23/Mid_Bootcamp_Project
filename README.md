@@ -60,6 +60,6 @@ For public institutions, such a model would facilitate the decision-making in fo
      8. Linear Regression model, predictions and error metrics score (R2, RMSE, MSE and MAE).
      9. General results
 
-    Tableau (Presentation link: https://public.tableau.com/app/profile/albert1030/viz/Mid-Project_16795179049110/Mid-Project?publish=yes)
+    Tableau (Presentation link: https://public.tableau.com/app/profile/albert1030/viz/Mid-Project_16795179049110/Mid-Project?publish=yes )
 
 
