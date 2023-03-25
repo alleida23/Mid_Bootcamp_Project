@@ -55,7 +55,7 @@ For public institutions, such a model would facilitate the decision-making in fo
      4. Reshaping and Merging
      5. Exporting/Importing tables from Jupyter Notebook to MySQL.
      
-     6. Exploratory Analysis (both Jupyter Notebook and Tableau)
+     6. Exploratory Data Analysis (both Jupyter Notebook and Tableau)
      7. Subset data for linear regression and Correlation Matrix.
      8. Linear Regression model, predictions and error metrics score (R2, RMSE, MSE and MAE).
      9. General results
