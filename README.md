@@ -14,24 +14,24 @@
 
 #### Overview
 
-Over the last years, larger and more virulent forest fires have occurred not only in the Mediterranean basin, but also in many areas around the world like California, Chile… What do they seem to have in common? Their greater capacity to destroy large areas.
+Over the past few years, larger and more destructive forest fires have occurred not only in the Mediterranean basin but also in many areas around the world, such as California and Chile. What do they have in common? Their ability to destroy vast areas.
 
-As temperatures keep rising year by year and longer droughts dry the land, in Catalonia there is an additional problem: 64% of its territory it’s covered by forest lands and this ratio keeps increasing annually, especially due to the economical depreciation of the agricultural sector.
+As temperatures continue to rise each year and longer droughts dry out the land, Catalonia faces an additional problem: 64% of its territory is covered by forest lands, and this ratio is increasing annually, particularly due to the economic decline of the agricultural sector.
 
-Hence, we can say that forests in Catalonia are fully charged with fuel for future wildfires.
-
-After looking for data of fires in Catalonia since 1999, I attempted to build a Linear Regression model to predict the amount of hectares that are likely to be affected by future fires in the region and I also explored the relationship between their damage scope and the following features:
-
-* Average Annual temperatures (celsius)
-* Average Annual Rainfall (mm)
-* Use of Land (forest / agriculture / urban / no vegetation)
-
-##### All information has been imported from many of the tables included in:
-
-    * https://www.idescat.cat/indicadors/?id=aec&n=15177&lang=en  (“Environment and Territory” sub-folders)
+Thus, we can say that the forests in Catalonia are fully loaded with fuel for future wildfires.
 
 
-For public institutions, such a model would facilitate the decision-making in forest control, as long as predicting the areas affected by fires would allow them to estimate and compare the costs of prevention versus recovery strategies.
+After gathering data on fires in Catalonia since 1999, I attempted to build a linear regression model to predict the number of hectares likely to be affected by future fires in the region. I also explored the relationship between the damage scope and the following features:
+
+- Average annual temperatures (in Celsius)
+- Average annual rainfall (in millimeters)
+- Land use (forest/agriculture/urban/no vegetation)
+
+All information has been imported from various tables included in the "Environment" and "Territory" subfolders of:
+
+https://www.idescat.cat/indicadors/?id=aec&n=15177&lang=en.
+
+For public institutions, such a model would facilitate decision-making in forest control. Predicting the areas affected by fires would allow them to estimate and compare the costs of prevention versus recovery strategies.
 
 
 
