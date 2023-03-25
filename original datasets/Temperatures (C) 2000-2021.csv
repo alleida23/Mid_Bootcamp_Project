@@ -1,0 +1,910 @@
+,Stations,Altitude (m),Annual average,Average maximums,Average minimums,Outright maximum,Outright minimum,Year
+Alt Camp,Alcover,246,16,21.3,11.5,36.9,-0.6,2000
+Alt Empordà,Roses,24,17,22.5,11.6,36.7,-1.8,2000
+Alt Penedès,Font-rubí,409,17,21.6,12.4,37.9,0.2,2000
+Alt Urgell,la Seu d'Urgell,849,12,19.3,5.6,36.8,-8.4,2000
+Alta Ribagorça,el Pont de Suert,824,10,18.8,3.1,35,-10.5,2000
+Anoia,els Hostalets de Pierola,312,16,22.6,10.9,40.2,-2.5,2000
+Bages,Sant Salvador de Guardiola,349,14,21.3,7.3,38.5,-7.6,2000
+Baix Camp,Botarell,231,16,21.3,11.8,36.1,-0.5,2000
+Baix Ebre,el Perelló,179,17,22.2,13.2,36.5,-0.3,2000
+Baix Empordà,Begur,198,15,17.8,12.7,29,0.5,2000
+Baix Llobregat,Vallirana,220,16,22.4,11.6,38.9,-0.8,2000
+Baix Penedès,el Vedrell,60,17,22.2,11.6,37.9,-1,2000
+Barcelonès,Barcelona (Ciutadella),8,17,19.6,14.4,35.7,1.7,2000
+Berguedà,Guardiola de Berguedà,720,11,19.3,4.7,37.6,-9.3,2000
+Cerdanya,Bellver de Cerdanya,1043,10,18.7,3.1,34.2,-13.1,2000
+Conca de Barberà,l'Espluga de Francolí,441,14,20.6,8.6,36.9,-4.4,2000
+Garraf,Vilanova i la Geltrú,14,19,23.4,16,40,3.8,2000
+Garrigues,Juneda,275,15,21,10.2,37.1,-7.3,2000
+Garrotxa,Olot,422,14,21.4,8.4,39.1,-4.6,2000
+Gironès,Sarrià de Ter,66,16,22.4,9.7,36.1,-2.9,2000
+Maresme,Vilassar de Mar,45,17,21.1,13.5,37.9,2.4,2000
+Montsià,Amposta,7,18,22.1,14.2,35.2,1.1,2000
+Noguera,Vilanova de Meià,590,14,20.7,8.4,41.4,-6.9,2000
+Osona,Vic,498,13,20.3,6.7,38.7,-7.6,2000
+Pallars Jussà,la Pobla de Segur,513,13,21.1,6.8,39.2,-8.8,2000
+Pallars Sobirà,Sort,682,13,19.7,6.8,36.5,-6.8,2000
+Pla d'Urgell,Castellnou de Seana,264,16,22.2,11.4,36.5,-1.4,2000
+Pla de l'Estany,Banyoles,157,14,21.4,7.7,37.5,-6.9,2000
+Priorat,Falset,350,15,21,10.4,36.2,-4.3,2000
+Ribera d'Ebre,Vinebre,48,17,24.3,10.8,40,-7,2000
+Ripollès,Sant Pau de Segúries,851,10,17.6,3.8,36.4,-9.9,2000
+Segarra,Cervera,558,14,19.1,8.5,38,-6.4,2000
+Segrià,Torres de Segre,144,15,23.7,8.6,39.6,-6.7,2000
+Selva,Santa Coloma de Farners,167,15,21.7,8.5,39.3,-3.9,2000
+Solsonès,Clariana de Cardener,693,14,20.2,8.1,38.1,-5.1,2000
+Tarragonès,Tarragona,8,18,21.6,13.9,35.7,0.7,2000
+Terra Alta,Gandesa,363,15,19.4,10.5,33.7,-3.5,2000
+Urgell,Tàrrega,420,14,19.7,9.4,38.1,-4.8,2000
+Val d'Aran,Vielha e Mijaran,997,10,17.2,5.3,35.8,-8.5,2000
+Vallès Occidental,Vacarisses,343,14,20.6,7.7,37.4,-7.7,2000
+Vallès Oriental,Montmeló,75,14,20.5,7.7,36.7,-2.8,2000
+Alt Camp,Vila-rodona,290,16,22,11,38.5,-3.1,2001
+Alt Empordà,Roses,24,17,23.4,12,38.9,-5.9,2001
+Alt Penedès,la Granada,238,15,21.9,9.7,38.2,-5.3,2001
+Alt Urgell,la Seu d'Urgell,849,12,19.4,5.7,38.2,-13.1,2001
+Alta Ribagorça,el Pont de Suert,824,10,18.8,3.1,36.3,-16.4,2001
+Anoia,els Hostalets de Pierola,312,16,22.6,11.1,39.3,-6.7,2001
+Bages,Sant Salvador de Guardiola,349,14,21.8,7.6,40.1,-13.2,2001
+Baix Camp,Botarell,231,16,21.4,11.7,35.2,-4.2,2001
+Baix Ebre,el Perelló,179,17,22.4,13.1,36,-5.3,2001
+Baix Empordà,la Bisbal d'Empordà,29,16,23.3,9.6,40.1,-7,2001
+Baix Llobregat,Vallirana,220,17,23.8,12.7,38.7,-0.1,2001
+Baix Penedès,el Vedrell,60,17,22.1,11.7,35.8,-3.1,2001
+Barcelonès,Barcelona (Ciutadella),8,17,20.1,14.6,32.3,0.8,2001
+Berguedà,Guardiola de Berguedà,720,11,19.8,4.5,39,-16.3,2001
+Cerdanya,Bellver de Cerdanya,1043,9,18,1.8,36.3,-21.7,2001
+Conca de Barberà,l'Espluga de Francolí,441,14,21.2,8.4,41.1,-8.3,2001
+Garraf,Vilanova i la Geltrú,14,18,21.5,14.2,33.3,0.3,2001
+Garrigues,Juneda,275,15,20.4,9.8,39.3,-11.4,2001
+Garrotxa,Olot,422,15,21.7,8.4,37.2,-8.4,2001
+Gironès,Sarrià de Ter,66,17,23.3,11,38.6,-6.3,2001
+Maresme,Vilassar de Mar,45,18,21.8,14.2,37.9,0.8,2001
+Montsià,Amposta,7,17,21,12.5,31.9,-0.8,2001
+Noguera,Vallfogona de Balaguer,245,14,20.8,8.1,39.6,-13.5,2001
+Osona,Vic,498,13,20.4,6.8,39,-17.1,2001
+Pallars Jussà,la Pobla de Segur,513,13,20.5,6.8,40.9,-14.7,2001
+Pallars Sobirà,Sort,682,13,19.9,6.9,37.7,-10.7,2001
+Pla d'Urgell,Castellnou de Seana,264,14,21.7,7.9,40.1,-14.1,2001
+Pla de l'Estany,Banyoles,157,16,21.8,10.6,37,-3.4,2001
+Priorat,Falset,350,15,21,9.8,37.8,-7.2,2001
+Ribera d'Ebre,Vinebre,48,17,24.3,10.1,40.1,-9.8,2001
+Ripollès,Sant Pau de Segúries,851,11,18,4.2,34.1,-14.2,2001
+Segarra,Cervera,558,14,19.4,8.6,38.7,-10.6,2001
+Segrià,Lleida,170,14,21.1,6.8,38.8,-11.7,2001
+Selva,Santa Coloma de Farners,167,16,22.8,9.4,40,-7.9,2001
+Solsonès,Clariana de Cardener,693,14,20.8,8.2,40.4,-8.7,2001
+Tarragonès,Tarragona,8,18,22.2,14.1,36.5,-0.8,2001
+Terra Alta,Gandesa,363,15,19.9,10.6,35.1,-10.2,2001
+Urgell,Tàrrega,420,14,20,9.4,39.7,-12.1,2001
+Val d'Aran,Vielha e Mijaran,997,10,16.5,4.8,35,-12.6,2001
+Vallès Occidental,Cerdanyola,97,15,21.7,9.7,37,-4.5,2001
+Vallès Oriental,Montmeló,75,15,23.2,9.2,39.1,-8.8,2001
+Alt Camp,Vila-rodona,290,16,21.7,10.9,35.2,1.3,2002
+Alt Empordà,Roses,24,17,22.4,11.6,36.5,-2.6,2002
+Alt Penedès,la Granada,238,15,21.5,9.7,35.1,-0.2,2002
+Alt Urgell,la Seu d'Urgell,849,12,18.5,5.6,34.8,-6.5,2002
+Alta Ribagorça,el Pont de Suert,824,10,18,3.3,32.9,-9.2,2002
+Anoia,els Hostalets de Pierola,312,16,21.7,10.7,37.1,-0.2,2002
+Bages,Sant Salvador de Guardiola,349,14,20.9,7.7,35.9,-5.2,2002
+Baix Camp,Botarell,231,16,21.4,12,33.5,2.8,2002
+Baix Ebre,el Perelló,179,17,21.9,13.2,35.7,1.8,2002
+Baix Empordà,la Bisbal d'Empordà,29,15,22.2,9.1,33.5,-2.8,2002
+Baix Llobregat,Vallirana,220,16,22,11.4,38.5,2.1,2002
+Baix Penedès,el Vedrell,60,17,21.9,11.9,32.9,1.3,2002
+Barcelonès,Barcelona (Obs. Fabra),411,15,19.5,12.2,33.6,3.1,2002
+Berguedà,Guardiola de Berguedà,720,11,18.8,4.7,34.1,-8.3,2002
+Cerdanya,Bellver de Cerdanya,1043,10,18.1,2.9,34.6,-10.8,2002
+Conca de Barberà,l'Espluga de Francolí,441,15,20.4,9.2,36.1,-3.1,2002
+Garraf,Vilanova i la Geltrú,14,18,21.3,14.4,30.9,5.2,2002
+Garrigues,Juneda,275,15,20.7,10.2,36.2,-2.2,2002
+Garrotxa,Olot,422,14,20.8,8.6,35.5,-4.1,2002
+Gironès,Girona,100,16,22.3,10.9,35.8,-1.7,2002
+Maresme,Vilassar de Mar,45,17,21.5,13.8,31.8,5.2,2002
+Montsià,Amposta,7,17,20.7,12.8,30.5,1.9,2002
+Noguera,Vallfogona de Balaguer,245,15,21.1,8.7,37.7,-3.6,2002
+Osona,Vic,498,13,19.4,7,35.5,-5.5,2002
+Pallars Jussà,la Pobla de Segur,513,13,20.2,7,37.6,-7.1,2002
+Pallars Sobirà,Sort,682,13,19.6,7.5,35.6,-6.3,2002
+Pla d'Urgell,Castellnou de Seana,264,14,21,7.9,37.1,-4,2002
+Pla de l'Estany,Banyoles,157,16,21.3,10.8,34.7,-1,2002
+Priorat,Falset,350,15,20.7,10.3,36.5,0.1,2002
+Ribera d'Ebre,Vinebre,48,17,23.8,11.1,39.5,-1.7,2002
+Ripollès,Sant Pau de Segúries,851,10,16.7,4.3,31.1,-9.1,2002
+Segarra,Cervera,558,13,18.7,8.2,36.6,-2.6,2002
+Segrià,Lleida (Raïmat),290,14,20.2,8.6,35.6,-3.9,2002
+Selva,Santa Coloma de Farners,167,15,21.5,9.2,33.6,-2.7,2002
+Solsonès,Clariana de Cardener,693,13,19.5,7.2,37,-3.7,2002
+Tarragonès,Tarragona,8,17,21.9,13.3,34.5,2.6,2002
+Terra Alta,Gandesa,363,15,19.9,11.2,35,-1.4,2002
+Urgell,Tàrrega,420,14,19.7,9.5,36.6,-4.5,2002
+Val d'Aran,Vielha e Mijaran,997,9,15.8,4.9,33.1,-7,2002
+Vallès Occidental,Cerdanyola,97,15,21.2,9.7,34.4,-2.5,2002
+Vallès Oriental,Montmeló,75,16,23.5,9.7,38.5,-2.5,2002
+Alt Camp,Vila-rodona,290,16,21.9,11.3,38.8,-2.5,2003
+Alt Empordà,Roses,24,18,22.8,12.5,41,-3.6,2003
+Alt Penedès,la Granada,238,16,22.1,10.2,38.8,-2.1,2003
+Alt Urgell,la Seu d'Urgell,849,12,19.3,6.3,37.2,-9.7,2003
+Alta Ribagorça,el Pont de Suert,824,11,18.9,4.1,36.4,-11.8,2003
+Anoia,els Hostalets de Pierola,312,16,21.5,11.1,37.4,-1.5,2003
+Bages,Sant Salvador de Guardiola,349,14,21.3,7.7,38.8,-7.4,2003
+Baix Camp,Botarell,231,16,21.3,11.9,36.3,-0.7,2003
+Baix Ebre,el Perelló,179,17,22,13.1,38.4,-0.9,2003
+Baix Empordà,la Bisbal d'Empordà,29,16,22.7,9.5,41.3,-5.7,2003
+Baix Llobregat,Vallirana,220,16,22.1,11.6,39.8,-2.2,2003
+Baix Penedès,el Vendrell,60,17,22.6,12.5,37.6,-1.6,2003
+Barcelonès,Barcelona (Obs. Fabra),411,16,20.4,12.7,39.2,-1.1,2003
+Berguedà,Guardiola de Berguedà,720,12,19.7,5.2,38.1,-10.5,2003
+Cerdanya,Das,1096,9,16.9,2.1,33.6,-16.6,2003
+Conca de Barberà,l'Espluga de Francolí,441,15,20.5,9.8,38.1,-3.5,2003
+Garraf,Vilanova i la Geltrú,14,18,21.6,14.7,34,1.8,2003
+Garrigues,Juneda,275,16,21.4,11,37.8,-4.8,2003
+Garrotxa,Olot,422,14,20.9,8.2,38.9,-6.8,2003
+Gironès,Girona,100,16,22.6,10.9,41.2,-3.7,2003
+Maresme,Vilassar de Mar,45,17,21.6,13.7,37.4,1,2003
+Montsià,Amposta,7,17,21,13.2,32.8,0,2003
+Noguera,Vallfogona de Balaguer,245,15,21.8,9.2,38.7,-8,2003
+Osona,Vic,498,13,19.7,7,38.8,-8,2003
+Pallars Jussà,la Pobla de Segur,513,14,20.8,7.8,39.6,-8.5,2003
+Pallars Sobirà,Sort,682,14,20.3,8.1,37.3,-7.2,2003
+Pla d'Urgell,Castellnou de Seana,264,15,21.8,8.4,38.4,-7.1,2003
+Pla de l'Estany,Banyoles,157,16,21.6,10.8,40.7,-3.7,2003
+Priorat,Falset,350,15,20.7,10.1,39.5,-4.4,2003
+Ribera d'Ebre,Vinebre,48,17,24.3,11.2,41.1,-5.8,2003
+Ripollès,Sant Pau de Segúries,851,11,17.7,4.6,35.9,-11.1,2003
+Segarra,Cervera,558,14,19.5,8.9,37.4,-6.1,2003
+Segrià,Lleida (Raïmat),290,14,20.5,8.9,37.3,-7.6,2003
+Selva,Santa Coloma de Farners,167,15,21.9,9.3,40.9,-4.3,2003
+Solsonès,Clariana de Cardener,693,13,19.7,7.5,38.3,-7.8,2003
+Tarragonès,Tarragona,8,18,21.8,12.9,35.2,-3.2,2003
+Terra Alta,Gandesa,363,16,20.3,11.6,37.5,-5.1,2003
+Urgell,Tàrrega,420,15,19.9,9.8,37.7,-5.3,2003
+Val d'Aran,Vielha e Mijaran,997,10,16.8,5.2,36.1,-12,2003
+Vallès Occidental,Cerdanyola,97,16,21.7,10.3,38.6,-3.5,2003
+Vallès Oriental,Montmeló,75,15,22.8,8.6,39.8,-4.6,2003
+Alt Camp,Vila-rodona,290,15,21,10.4,34.7,-1.1,2004
+Alt Empordà,Roses,24,16,20.4,11.2,36.8,-2.4,2004
+Alt Penedès,la Granada,238,15,21.5,9.6,36.5,-2.6,2004
+Alt Urgell,la Seu d'Urgell,849,12,18.8,5.3,35.3,-8.7,2004
+Alta Ribagorça,el Pont de Suert,824,10,18.6,3,34.9,-9.8,2004
+Anoia,els Hostalets de Pierola,312,14,20.1,9.8,36.8,-3.4,2004
+Bages,Sant Salvador de Guardiola,349,13,20.4,6.6,37,-8.5,2004
+Baix Camp,Botarell,231,15,20.4,11.1,35.6,-1.1,2004
+Baix Ebre,el Perelló,179,16,21.1,12.1,35.7,0,2004
+Baix Empordà,la Bisbal d'Empordà,29,15,21.5,8.9,36.2,-4,2004
+Baix Llobregat,Vallirana,220,16,21.7,11.2,36.7,-2.2,2004
+Baix Penedès,el Vendrell,60,16,21.5,11.2,34.3,-1.4,2004
+Barcelonès,Barcelona (Obs. Fabra),411,15,19.5,11.8,34.9,-0.9,2004
+Berguedà,Guardiola de Berguedà,720,10,18.4,4,37.7,-9.2,2004
+Cerdanya,Das,1096,8,17.1,0.8,34.2,-12,2004
+Conca de Barberà,l'Espluga de Francolí,441,13,18.7,8.1,34,-3.5,2004
+Garraf,Vilanova i la Geltrú,14,18,21,14.3,33.2,0.9,2004
+Garrigues,Juneda,490,13,18.8,8.1,35.6,-4.8,2004
+Garrotxa,Olot,422,13,19.7,7.4,35.2,-6.3,2004
+Gironès,Girona,100,16,21.9,10.5,37.1,-3.4,2004
+Maresme,Vilassar de Mar,45,17,20.9,13.1,35.8,-0.1,2004
+Montsià,Amposta,7,16,20.5,12.6,32.7,0.2,2004
+Noguera,Vallfogona de Balaguer,245,14,20.6,7.9,37.3,-6.5,2004
+Osona,Gurb,517,12,19.2,6.4,36.1,-7.1,2004
+Pallars Jussà,la Pobla de Segur,513,13,20.1,6.3,38.3,-7.7,2004
+Pallars Sobirà,,..,..,..,..,..,..,2004
+Pla d'Urgell,Castellnou de Seana,264,13,20.3,7.3,36.7,-6.4,2004
+Pla de l'Estany,Banyoles,157,15,20.2,9.8,35.7,-3.9,2004
+Priorat,Falset,350,14,20.5,9.3,38.3,-5.2,2004
+Ribera d'Ebre,Vinebre,48,16,22.9,10,40.8,-4.2,2004
+Ripollès,Sant Pau de Segúries,851,10,16.9,3.7,32.2,-10,2004
+Segarra,Cervera,558,12,18,7.6,35.5,-5.8,2004
+Segrià,Lleida (Raimat),290,14,20,8.1,36.7,-5.6,2004
+Selva,Anglès,150,15,21.2,8.7,39.3,-4.2,2004
+Solsonès,Clariana de Cardener,693,13,19.6,7,37.1,-7.2,2004
+Tarragonès,Tarragona,8,17,21.9,12.7,37.1,0.5,2004
+Terra Alta,Horta de Sant Joan,511,14,19.9,9.4,37.3,-3.3,2004
+Urgell,Tàrrega,420,13,18.7,8.6,35.6,-5.4,2004
+Val d'Aran,Vielha e Mijaran,997,9,15.5,4.3,33,-9.6,2004
+Vallès Occidental,Vacarisses,343,13,20,7.1,36.5,-7,2004
+Vallès Oriental,Montmeló,75,15,21.6,8.8,38.1,-4.8,2004
+Alt Camp,Vila-rodona,290,15,20.2,9.9,35.3,-5,2005
+Alt Empordà,Roses,24,16,20.6,10.9,36.3,-5,2005
+Alt Penedès,la Granada,238,15,21.3,8.9,36.4,-6,2005
+Alt Urgell,la Seu d'Urgell,849,12,18.8,5,36.6,-11,2005
+Alta Ribagorça,el Pont de Suert,824,10,18.9,2.5,35.8,-14,2005
+Anoia,els Hostalets de Pierola,312,14,20.4,9.9,35.2,-6,2005
+Bages,La Quar,349,14,21.1,6.8,38.2,-11,2005
+Baix Camp,Botarell,231,16,20.8,10.9,36.3,-4,2005
+Baix Ebre,el Perelló,179,16,20.6,11.6,34.8,-5,2005
+Baix Empordà,la Bisbal d'Empordà,29,15,22.1,8.4,36.6,-9,2005
+Baix Llobregat,Vallirana,220,16,21.8,11.2,35.9,-4,2005
+Baix Penedès,el Vendrell,60,17,21.9,11.6,36.4,-3,2005
+Barcelonès,Barcelona (Obs. Fabra),411,15,19.9,11.7,35.6,-5,2005
+Berguedà,Guardiola de Berguedà,860,11,18.1,6.3,36,-11,2005
+Cerdanya,Das,1096,9,17.3,0.6,35.2,-16,2005
+Conca de Barberà,l'Espluga de Francolí,441,14,19.4,8.2,35.7,-6,2005
+Garraf,Sant Pere de Ribes,171,16,22,10.6,38.3,-5,2005
+Garrigues,Juneda,490,13,18.6,7.6,37,-9,2005
+Garrotxa,Olot,422,13,19.4,6.5,36,-10,2005
+Gironès,Girona,100,16,22.4,10,38.4,-7,2005
+Maresme,Vilassar de Mar,45,17,21.2,13.3,35.4,-2,2005
+Montsià,Amposta,7,16,20,12,31.7,-3,2005
+Noguera,Vallfogona de Balaguer,245,14,20.6,7.3,37.7,-11,2005
+Osona,Gurb,517,12,19.2,5.7,38.2,-12,2005
+Pallars Jussà,la Pobla de Segur,513,13,20.6,6.4,40.6,-10,2005
+Pallars Sobirà,,..,..,..,..,..,..,2005
+Pla d'Urgell,Castellnou de Seana,264,14,21.1,7.6,39.2,-10,2005
+Pla de l'Estany,Banyoles,157,15,20.7,9.7,36.8,-7,2005
+Priorat,Ulldemolins,631,13,20.5,7.1,40.2,-10,2005
+Ribera d'Ebre,Vinebre,48,17,23.3,10.7,39.8,-6,2005
+Ripollès,Sant Pau de Segúries,851,10,17.2,3.1,34.8,-12,2005
+Segarra,Cervera,558,13,18.3,7.8,37.9,-8,2005
+Segrià,Lleida (Raimat),290,13,20.1,7.5,37.7,-10,2005
+Selva,Anglès,150,15,21.9,8.5,39.5,-9,2005
+Solsonès,Clariana de Cardener,693,12,19.4,6.5,38.3,-11,2005
+Tarragonès,Constantí,105,15,20.9,10.2,34.9,-6,2005
+Terra Alta,Horta de Sant Joan,511,14,20.5,9.1,39.9,-10,2005
+Urgell,Tàrrega,420,14,19.2,8.8,38.8,-8,2005
+Val d'Aran,Vielha e Mijaran,997,9,16,4.2,34.6,-15,2005
+Vallès Occidental,Vacarisses,343,13,20.7,7.2,35.7,-9,2005
+Vallès Oriental,Montmeló,75,15,21.9,8.4,37.1,-9,2005
+Alt Camp,Vila-rodona,290,16,20.6,11.2,34.5,-1,2006
+Alt Empordà,Roses,24,17,21.5,12,39.1,-3,2006
+Alt Penedès,la Granada,238,15,20.7,10.6,35.3,-2,2006
+Alt Urgell,la Seu d'Urgell,849,12,19.2,5.9,35.7,-8,2006
+Alta Ribagorça,el Pont de Suert,824,12,19.5,4.2,35.8,-10,2006
+Anoia,els Hostalets de Pierola,312,16,22.1,11.5,37.5,-1,2006
+Bages,S. Salvador de Guardiola,334,14,21.6,8.1,36.8,-5,2006
+Baix Camp,Botarell,231,16,20.9,10.9,35.8,-1,2006
+Baix Ebre,el Perelló,179,17,22.1,13.1,37.5,-2,2006
+Baix Empordà,la Bisbal d'Empordà,29,16,23,9.8,38.2,-3,2006
+Baix Llobregat,Vallirana,220,17,22.8,12.1,39.7,-1,2006
+Baix Penedès,el Vendrell,60,17,22.3,12.2,36.5,0,2006
+Barcelonès,Barcelona (Obs. Fabra),411,16,20.6,12.6,38.2,0,2006
+Berguedà,la Quar,885,13,19.2,7.5,35.8,-4,2006
+Cerdanya,Das,1096,10,19.4,2.4,34.9,-13,2006
+Conca de Barberà,l'Espluga de Francolí,441,14,20.4,9.3,37.2,-4,2006
+Garraf,Sant Pere de Ribes,171,17,22.4,12.1,36.2,0,2006
+Garrigues,la Granadella,528,14,19.4,9.4,36,-6,2006
+Garrotxa,Olot,422,14,21.1,8.2,37.9,-6,2006
+Gironès,Girona,100,17,23.5,11.5,39.6,-3,2006
+Maresme,Vilassar de Mar,45,18,21.7,14.2,33.6,2,2006
+Montsià,Amposta,7,17,20.8,13.6,33,0,2006
+Noguera,Vallfogona de Balaguer,245,15,21.2,9.1,38.9,-5,2006
+Osona,Gurb,517,13,20.1,7.5,37.4,-6,2006
+Pallars Jussà,la Pobla de Segur,513,14,21.3,7.6,39.3,-7,2006
+Pallars Sobirà,,..,..,..,..,..,..,2006
+Pla d'Urgell,Castellnou de Seana,264,16,21.1,8.2,38.5,-2,2006
+Pla de l'Estany,Banyoles,157,15,21.8,10.9,38.5,-7,2006
+Priorat,Ulldemolins,631,14,21,8,39,-9,2006
+Ribera d'Ebre,Vinebre,48,18,23.8,11.5,41.8,-5,2006
+Ripollès,Sant Pau de Segúries,851,11,18.6,4.5,35.4,-10,2006
+Segarra,Cervera,558,14,19.2,9.3,38,-4,2006
+Segrià,Lleida (Raimat),290,15,20.8,9,37.9,-6,2006
+Selva,Anglès,150,16,22.6,9.3,40.1,-4,2006
+Solsonès,Clariana de Cardener,693,14,20.6,8.5,36.9,-4,2006
+Tarragonès,Constantí,105,16,21.3,11.6,35,-2,2006
+Terra Alta,Horta de Sant Joan,511,15,21.2,10.2,38.5,-4,2006
+Urgell,Tàrrega,420,15,20.3,10.2,38.8,-6,2006
+Val d'Aran,Vielha e Mijaran,997,10,17.5,5.5,33.6,-8,2006
+Vallès Occidental,Vacarisses,343,14,21.3,8,37.3,-6,2006
+Vallès Oriental,Vilanova del Vallès,91,16,22.4,9.4,37,-4,2006
+Alt Camp,Vila-rodona,290,16 (1),21.3,10.9,36.3,-1.5,2007
+Alt Empordà,Roses,24,16,21.6,11.1,33.4,-4.1,2007
+Alt Penedès,la Granada,238,15,21.1,9.9,35.4,-3.1,2007
+Alt Urgell,la Seu d'Urgell,849,12,19.6,5.2,35.9,-8.3,2007
+Alta Ribagorça,el Pont de Suert,824,10,19.3,2.5,34.9,-12.5,2007
+Anoia,els Hostalets de Pierola,312,15,21.7,10.2,36.5,-3,2007
+Bages,Sant Salvador de Guardiola,334,13,21.4,7,37,-8.3,2007
+Baix Camp,Vinyols i els Arcs,231,16,21.1,11.6,32.2,-2.8,2007
+Baix Ebre,El Perelló,179,16 (1),20.1,12.1,34.1,-1.1,2007
+Baix Empordà,la Bisbal d'Empordà,29,15,22,8.7,36.5,-6.3,2007
+Baix Llobregat,Vallirana,220,16,22.8,11.3,38.9,-1.1,2007
+Baix Penedès,el Vendrell,60,16 (1),22.2,10.8,32.7,-2.3,2007
+Barcelonès,Barcelona-Obs. Fabra,411,15,20.5,11.7,34.5,-1.3,2007
+Berguedà,la Quar,885,12,19.1,6.4,35.3,-7.7,2007
+Cerdanya,Das,1096,9 (1),18.7,0.9,35.4,-15.6,2007
+Conca de Barberà,l'Espluga de Francolí,441,14,20.2,8.7,39.1,-4.9,2007
+Garraf,Sant Pere de Ribes,171,16,22.2,11.6,35.2,-1.6,2007
+Garrigues,la Granadella,528,14,19.3,8.3,37.3,-7.3,2007
+Garrotxa,Olot,422,13,21.3,7,38.6,-7.6,2007
+Gironès,Girona,100,16 (1),23,9.6,38,-5.3,2007
+Maresme,Vilassar de Mar,45,17,21.8,12.7,32.4,0.2,2007
+Montsià,Amposta,7,17,21.8,12.8,32.6,0.7,2007
+Noguera,Vallfogona de Balaguer,245,14,21.2,7.8,40.4,-8.2,2007
+Osona,Gurb,517,12,20.4,5.7,38.5,-8.8,2007
+Pallars Jussà,la Pobla de Segur,513,13,21,6,38.2,-9.1,2007
+Pallars Sobirà,,..,..,..,..,..,..,2007
+Pla d'Urgell,Castellnou de Seana,264,13,20.8,7.1,41.2,-8.6,2007
+Pla de l'Estany,Banyoles,157,15,21.8,10.1,35.8,-3.9,2007
+Priorat,Ulldemolins,631,13,21,7,38.7,-9.5,2007
+Ribera d'Ebre,Vinebre,48,16,23.6,9.8,40.4,-9.1,2007
+Ripollès,Sant Pau de Segúries,851,10,18.2,3.2,33.7,-11.5,2007
+Segarra,Cervera,558,13,19.2,8.1,38.8,-6.2,2007
+Segrià,Lleida - Raimat,290,14,20.6,7.4,39.2,-10.8,2007
+Selva,Anglès,150,15,22.3,7.8,39.3,-7.8,2007
+Solsonès,Clariana de Cardener,693,13,20.3,7,38,-6.5,2007
+Tarragonès,Constantí,105,16,22.3,10.5,34.1,-5.2,2007
+Terra Alta,Horta de St. Joan,511,14,20.2,8.8,38.6,-7.6,2007
+Urgell,Tàrrega,420,14,20.2,9.3,39.8,-5.4,2007
+Val d'Aran,Vielha e Mijaran,997,9,16.4,4,35.2,-10,2007
+Vallès Occidental,Vacarisses,343,13,21.1,7,36.1,-8.9,2007
+Vallès Oriental,Vilanova del Vallès,75,14,22.1,8.2,35.5,-5.9,2007
+Alt Camp,Vila-rodona,290,15,20.5,10.6,34.6,0.1,2008
+Alt Empordà,Roses,24,16,21,11.3,34.5,-1,2008
+Alt Penedès,la Granada,238,15,20.4,9.9,34.2,-2,2008
+Alt Urgell,la Seu d'Urgell,849,11,18,5.5,34.1,-7.3,2008
+Alta Ribagorça,el Pont de Suert,824,10,18.5,2.8,35.4,-10.8,2008
+Anoia,els Hostalets de Pierola,312,15,20.2,10.1,34.7,-1.7,2008
+Bages,Sant Salvador de Guardiola,349,13,20.3,7,36.6,-7.3,2008
+Baix Camp,Vinyols i els Arcs,231,16,20.3,11.6,32.8,-1.5,2008
+Baix Ebre,El Perelló,179,16,20.5,11.9,35.3,-2.5,2008
+Baix Empordà,la Bisbal d'Empordà,29,15,21.9,8.8,36.8,-3,2008
+Baix Llobregat,Vallirana,220,15,21,11,34.7,0.3,2008
+Baix Penedès,el Vendrell,60,16,21.7,10.7,35.2,-1.2,2008
+Barcelonès,Barcelona-Obs. Fabra,411,15,19.1,11.5,34.6,0.8,2008
+Berguedà,la Quar,860,11,16.7,6,34,-4.7,2008
+Cerdanya,Das,1096,9,16.9,1,34.8,-12.1,2008
+Conca de Barberà,l'Espluga de Francolí,441,14,19.6,8.6,34.7,-4,2008
+Garraf,Sant Pere de Ribes,171,16,21.3,11.3,34.3,-0.7,2008
+Garrigues,la Granadella,490,13,18.7,8.4,34.5,-5.7,2008
+Garrotxa,Olot,422,13,20.6,6.9,38.1,-6.1,2008
+Gironès,Girona,100,15,21.6,9.3,37.1,-3.7,2008
+Maresme,Vilassar de Mar,45,16,20.4,12.5,31.2,1,2008
+Montsià,Amposta,7,17,21.3,12.8,31.9,0.3,2008
+Noguera,Vallfogona de Balaguer,245,14,20.5,8.4,36.4,-5.5,2008
+Osona,Gurb,517,12,19.5,6.4,37.4,-7.4,2008
+Pallars Jussà,la Pobla de Segur,513,12,19.9,6,38.7,-9.8,2008
+Pallars Sobirà,,..,..,..,..,..,..,2008
+Pla d'Urgell,Castellnou de Seana,264,14,20.8,8,38.2,-5.3,2008
+Pla de l'Estany,Banyoles,157,15,21.2,9.8,37.7,-2.5,2008
+Priorat,Ulldemolins,359,14,20.2,9.9,35.8,-3.6,2008
+Ribera d'Ebre,Vinebre,48,16,22.7,10.1,38.3,-4,2008
+Ripollès,Sant Pau de Segúries,851,10,16.9,3.9,32.5,-8.9,2008
+Segarra,Cervera,558,13,18.4,8.2,36.2,-6.5,2008
+Segrià,Lleida - Raimat,290,14,20.1,8.1,36.8,-6.6,2008
+Selva,Anglès,150,14,21.1,7.6,38.2,-5.8,2008
+Solsonès,Clariana de Cardener,693,12,18.2,7.2,35.1,-4.6,2008
+Tarragonès,Constantí,105,16,21.1,10.4,33.8,-2.3,2008
+Terra Alta,Horta de St. Joan,511,14,19.2,9,35.7,-6.2,2008
+Urgell,Tàrrega,420,14,19.3,9.1,37,-6.4,2008
+Val d'Aran,Vielha e Mijaran,997,9,15.9,4.3,33.8,-9.2,2008
+Vallès Occidental,Vacarisses,343,13,20.2,7.5,35.7,-8,2008
+Vallès Oriental,Vilanova del Vallès,75,14,20.9,8.4,36.4,-4.8,2008
+Alt Camp,Vila-rodona,290,16,21.2,10.9,35.9,-2.9,2009
+Alt Empordà,Roses,24,17,21.5,11.7,36.4,-4.7,2009
+Alt Penedès,la Granada,238,15,21.3,10.3,36.5,-2.9,2009
+Alt Urgell,la Seu d'Urgell,849,12,18.8,5.8,33.6,-9.1,2009
+Alta Ribagorça,el Pont de Suert,824,10,19.5,3.3,34.6,-11.8,2009
+Anoia,els Hostalets de Pierola,312,15,20.9,10.7,36.4,-4.4,2009
+Bages,Sant Salvador de Guardiola,349,13,21.1,6.8,37.4,-9.9,2009
+Baix Camp,Vinyols i els Arcs,231,16,21.1,11.9,35.7,-1.4,2009
+Baix Ebre,el Perelló,179,16,21.3,12.3,36.7,-1.3,2009
+Baix Empordà,la Bisbal d'Empordà,29,16,22.5,9.2,40.1,-7.9,2009
+Baix Llobregat,Vallirana,220,16,21.8,11.9,38.5,-2.9,2009
+Baix Penedès,el Vendrell,60,16,22.2,11.3,36.5,-3.2,2009
+Barcelonès,Barcelona-Obs. Fabra,411,15,20.2,12,37.8,-2.2,2009
+Berguedà,la Quar,860,12,18.3,7,34.9,-10.4,2009
+Cerdanya,Das,1096,9,17.6,1.4,32.6,-16,2009
+Conca de Barberà,l'Espluga de Francolí,441,14,20.4,9.1,36.3,-6.4,2009
+Garraf,Sant Pere de Ribes-PN del Garraf,171,16,22.1,11.9,37.4,-2.8,2009
+Garrigues,la Granadella,490,14,19.8,8.9,35.7,-6.7,2009
+Garrotxa,Olot,422,14,21.8,7.6,38,-9.5,2009
+Gironès,Girona,100,16,22.6,9.9,39.3,-7.3,2009
+Maresme,Vilassar de Mar,45,17,20.9,13.1,38.2,0.5,2009
+Montsià,Amposta,7,17,21.7,13.1,34.1,-0.8,2009
+Noguera,Vallfogona de Balaguer,245,15,21.8,8.8,38.1,-9.4,2009
+Osona,Gurb,517,13,20.6,6.7,36.1,-9.9,2009
+Pallars Jussà,la Pobla de Segur,513,13,20.8,6.9,37.4,-9.9,2009
+Pallars Sobirà,..,..,..,..,..,..,..,2009
+Pla d'Urgell,Castellnou de Seana,264,15,21.6,8.4,37.9,-9.2,2009
+Pla de l'Estany,Banyoles,157,16,22,10.4,39,-5.4,2009
+Priorat,Ulldemolins,359,15,21.1,8.7,36.2,-7.7,2009
+Ribera d'Ebre,Vinebre,48,17,23.7,10.4,39.5,-5.6,2009
+Ripollès,Sant Pau de Segúries,851,10,17.7,4.2,33.6,-13.2,2009
+Segarra,Cervera,558,13,19.2,8.3,36.9,-7.5,2009
+Segrià,Lleida - Raimat,290,14,21.2,8.4,36.6,-10.3,2009
+Selva,Anglès,150,15,22.2,8.3,38.6,-9.7,2009
+Solsonès,Clariana de Cardener,693,13,19.3,8.2,36,-8,2009
+Tarragonès,Constantí,105,16,21.6,10.8,36.2,-6.5,2009
+Terra Alta,Horta de St. Joan,511,15,20.5,9.4,39.9,-5.6,2009
+Urgell,Tàrrega,420,15,20.4,9.8,37.6,-7.6,2009
+Val d'Aran,Vielha e Mijaran,997,10,17.5,4.8,34.3,-10,2009
+Vallès Occidental,Vacarisses,343,14,21.1,8.2,36.8,-6.2,2009
+Vallès Oriental,Vilanova del Vallès,75,15,21.6,8.7,37.8,-7.2,2009
+Alt Camp,Vila-rodona,290,14,19.3,9.3,35.7,-3.4,2010
+Alt Empordà,Roses,24,16,20.3,10.7,36,-3.3,2010
+Alt Penedès,la Granada (2),238,14,19.9,9.4,36.8,-3.7,2010
+Alt Urgell,la Seu d'Urgell,849,10,16.9,4.8,34.5,-9.2,2010
+Alta Ribagorça,el Pont de Suert,824,9,17.2,2.7,34.6,-10.6,2010
+Anoia,els Hostalets de Pierola,312,14,19.2,9.5,34.6,-3.4,2010
+Bages,Sant Salvador de Guardiola,349,12,19.2,6,35.4,-8.9,2010
+Baix Camp,Vinyols i els Arcs (2),231,15,19.9,11.1,38.4,-2.9,2010
+Baix Ebre,El Perelló,179,15,20,11.4,38.3,-1,2010
+Baix Empordà,la Bisbal d'Empordà,29,14,20.6,8.3,37.1,-6.6,2010
+Baix Llobregat,Vallirana,220,15,20.5,11.2,37.2,-1.9,2010
+Baix Penedès,el Vendrell,60,15,20.4,10.3,37.2,-3,2010
+Barcelonès,Barcelona-Obs. Fabra,411,14,18.8,11,37.9,-3.1,2010
+Berguedà,la Quar,860,10,16.3,6,32.9,-8.9,2010
+Cerdanya,Das,1.096,8,15.5,0.2,32.1,-17.2,2010
+Conca de Barberà,l'Espluga de Francolí,441,13,19,7.8,35.5,-6.2,2010
+Garraf,Sant Pere de Ribes-PN del Garraf (2),171,15,20.7,10.9,39.6,-3,2010
+Garrigues,la Granadella (2),490,13,18.5,7.8,36,-6.9,2010
+Garrotxa,Olot,422,13,19.9,6.8,37.6,-9.4,2010
+Gironès,Girona,100 i 72,..,..,..,..,..,2010
+Maresme,Vilassar de Mar,45,16,20,12.4,32.1,-1.3,2010
+Montsià,Amposta,7,16,20.5,12.2,32.3,-0.9,2010
+Noguera,Vallfogona de Balaguer (2),245,14,20.7,7.6,38.8,-7.9,2010
+Osona,Gurb (2),517,12,18.8,6.2,36.8,-10.2,2010
+Pallars Jussà,la Pobla de Segur,513,12,19.3,5.9,38.3,-8.1,2010
+Pallars Sobirà,Sort,679,11,19.5,4.7,37.6,-8,2010
+Pla d'Urgell,Castellnou de Seana,264,13,20.1,7.2,35.8,-7.2,2010
+Pla de l'Estany,Banyoles,157,15,20.2,9.6,38,-5.1,2010
+Priorat,Falset,359,14,19.7,9.3,37.1,-5.7,2010
+Ribera d'Ebre,Vinebre,48,16,22.5,9.4,39.9,-8.3,2010
+Ripollès,Sant Pau de Segúries,851,10,16.4,3.7,32.7,-13.2,2010
+Segarra,Cervera,558,12,17.4,6.8,36.8,-11.2,2010
+Segrià,Raimat,290,13,20,7.4,36.6,-8.2,2010
+Selva,Anglès,150,14,20.6,7.7,39.6,-6.9,2010
+Solsonès,Clariana de Cardener,693,12,17.9,7,37,-7.5,2010
+Tarragonès,Tarragona - Complex Educatiu,5,16,21.2,11.6,39.9,-2.8,2010
+Terra Alta,Horta de St. Joan,511,14,19.7,8.7,38,-4.7,2010
+Urgell,Tàrrega,420,13,19.1,8.6,37.9,-7,2010
+Val d'Aran,Vielha e Mijaran,997,9,15.8,3.9,36.3,-12.3,2010
+Vallès Occidental,Sabadell - Parc Agrari,258,14,19.6,8.6,36.8,-5.8,2010
+Vallès Oriental,Caldes de Montbui,176,14,20.5,8.5,38.1,-6.3,2010
+Alt Camp,Vila-rodona,287,15,20.6,10.5,33.4,-4.2,2011
+Alt Empordà,Roses,24,17,21.7,11.8,34.2,-4.5,2011
+Alt Penedès,la Granada,240,15,21.1,10.3,34.9,-3.9,2011
+Alt Urgell,la Seu d'Urgell,849,12,19.4,6.2,36.5,-10.9,2011
+Alta Ribagorça,el Pont de Suert,823,11,19.6,3.7,35.7,-13.1,2011
+Anoia,els Hostalets de Pierola,316,15,21.3,10.9,35.9,-4.3,2011
+Bages,Sant Salvador de Guardiola,349,14,21.7,7.3,38.1,-10.6,2011
+Baix Camp,Vinyols i els Arcs,29,17,21.3,12.4,31.9,-3.4,2011
+Baix Ebre,El Perelló,179,16,21.3,12.5,33,-2.3,2011
+Baix Empordà,la Bisbal d'Empordà,29,15,22.1,9.4,35.7,-6.5,2011
+Baix Llobregat,Vallirana,252,16,21.8,11.9,37.4,-2.2,2011
+Baix Penedès,el Vendrell,59,16,22,11.5,34.1,-5,2011
+Barcelonès,Barcelona - Obs. Fabra,411,15,19.9,12.3,34.1,-2.4,2011
+Berguedà,la Quar,873,12,18.7,7.7,34.7,-9.5,2011
+Cerdanya,Das,1097,9,18.2,1.3,34.3,-15.6,2011
+Conca de Barberà,l'Espluga de Francolí,446,14,20.9,9.1,37.7,-7,2011
+Garraf,Sant Pere de Ribes - PN del Garraf,161,17,22.4,12.2,36.9,-2.4,2011
+Garrigues,la Granadella,505,14,20.4,8.9,36.4,-7.3,2011
+Garrotxa,Olot,422,14,21.2,7.9,37.6,-7.9,2011
+Gironès,Girona,72,15,22.2,8.2,36.3,-7.4,2011
+Maresme,Vilassar de Mar,44,17,21.1,13.5,32,0,2011
+Montsià,Amposta,3,17,21.4,13.2,31.4,-1.9,2011
+Noguera,Vallfogona de Balaguer,238,15,22.2,8.8,39.3,-8.3,2011
+Osona,Gurb,509,13,20.8,6.9,39,-8.8,2011
+Pallars Jussà,la Pobla de Segur,513,14,21.3,7.2,39.4,-9.6,2011
+Pallars Sobirà,Sort,679,12,20.3,5.7,36.8,-9.9,2011
+Pla d'Urgell,Mollerussa,247,15,21.7,8.3,39.4,-9,2011
+Pla de l'Estany,Banyoles,176,16,21.7,10.6,36.7,-4.7,2011
+Priorat,Falset,359,15,21.3,10.8,35.4,-6.3,2011
+Ribera d'Ebre,Vinebre,53,17,23.8,10.5,37.8,-9.4,2011
+Ripollès,Sant Pau de Segúries,852,11,17.5,4.9,32.1,-11.6,2011
+Segarra,Cervera,554,13,19.6,8.3,38.3,-8.8,2011
+Segrià,Raimat,286,15,21.3,8.6,37.5,-9.7,2011
+Selva,Anglès,150,15,22.1,8.7,36.7,-7.4,2011
+Solsonès,Clariana de Cardener,693,14,20.4,8.6,38,-8.1,2011
+Tarragonès,Tarragona - Complex Educatiu,5,17,22.2,12.9,34.1,-4,2011
+Terra Alta,Horta de St. Joan,515,15,21.1,9.8,37.3,-5.7,2011
+Urgell,Tàrrega,427,15,21.2,9.8,38.6,-7.3,2011
+Val d'Aran,Vielha e Mijaran,1002,10,17,5.3,34.5,-11.3,2011
+Vallès Occidental,Sabadell - Parc Agrari,258,15,21.1,9.6,34.8,-5.5,2011
+Vallès Oriental,Caldes de Montbui,176,15,21.7,9.2,34.9,-6.7,2011
+Alt Camp,Vila-rodona,287,15,20.5,9.8,34.4,-4.5,2012
+Alt Empordà,Roses,24,16,21.4,11.4,36.2,-4.2,2012
+Alt Penedès,la Granada,240,15,20.9,9.5,35.6,-5.4,2012
+Alt Urgell,la Seu d'Urgell,849,12,19.1,5.4,38.3,-10.7,2012
+Alta Ribagorça,el Pont de Suert,823,10,19.2,2.9,37.1,-11.8,2012
+Anoia,els Hostalets de Pierola,316,15,21.1,10.3,36.4,-5.1,2012
+Bages,Sant Salvador de Guardiola,349,13,21.5,6.5,40.3,-10.1,2012
+Baix Camp,Vinyols i els Arcs,29,17,21.1,12.2,35.5,-2.1,2012
+Baix Ebre,El Perelló,179,16,21,12,35,-2.8,2012
+Baix Empordà,la Bisbal d'Empordà,29,15,21.7,8.4,36.9,-6.8,2012
+Baix Llobregat,Vallirana,8,16,21.9,11.3,35.6,-4.6,2012
+Baix Penedès,el Vendrell,59,16,21.6,10.4,33.5,-4.2,2012
+Barcelonès,Barcelona - Obs. Fabra,33,18,21.3,15,35.1,0.6,2012
+Berguedà,la Quar,873,12,18.6,7,38.4,-11.5,2012
+Cerdanya,Das,1097,9,17.8,0.5,36.8,-16.6,2012
+Conca de Barberà,l'Espluga de Francolí,446,14,20.4,8.4,38.2,-5.9,2012
+Garraf,Sant Pere de Ribes - PN del Garraf,161,16,22.1,11.6,36.4,-3.8,2012
+Garrigues,la Granadella,505,14,19.9,8.5,38.9,-7.6,2012
+Garrotxa,Olot,422,14,21.5,6.9,38.8,-9.9,2012
+Gironès,Girona,72,14,22,7.2,38,-9.6,2012
+Maresme,Vilassar de Mar,45,17,21,12.7,34.2,-2.1,2012
+Montsià,Amposta,3,16,21.1,12.4,34,-0.8,2012
+Noguera,Vallfogona de Balaguer,238,14,21.6,7.7,38.6,-10.7,2012
+Osona,Gurb,509,12,20.6,5.6,40,-11.6,2012
+Pallars Jussà,la Pobla de Segur,513,13,21,6.3,40.3,-11.4,2012
+Pallars Sobirà,Sort,679,12,19.9,5.2,38.5,-9.2,2012
+Pla d'Urgell,Mollerussa,247,14,21.5,7.5,38.8,-8.9,2012
+Pla de l'Estany,Banyoles,176,15,21.5,9.7,38,-7.7,2012
+Priorat,Falset,359,15,21.1,10,39.8,-6.7,2012
+Ribera d'Ebre,Vinebre,53,16,23.6,9.9,41,-7.4,2012
+Ripollès,Sant Pau de Segúries,852,10,17.2,3.4,33.4,-12.5,2012
+Segarra,Cervera,554,14,19.8,8.3,38.8,-9.2,2012
+Segrià,Raimat,286,14,21.1,7.8,39,-10.3,2012
+Selva,Anglès,150,14,22,7.5,40.2,-9.5,2012
+Solsonès,Clariana de Cardener,659,12,18.8,6.8,37.8,-12.1,2012
+Tarragonès,Tarragona - Complex Educatiu,5,17,21.9,12.1,32.8,-4.5,2012
+Terra Alta,Horta de St. Joan,515,14,20.6,9.1,40.4,-6.2,2012
+Urgell,Tàrrega,427,15,21.1,9.2,39.4,-8.2,2012
+Val d'Aran,Vielha e Mijaran,1002,9,16.3,4.4,37.1,-16.5,2012
+Vallès Occidental,Sabadell - Parc Agrari,258,15,21,8.9,38.3,-6.6,2012
+Vallès Oriental,Caldes de Montbui,176,15,21.5,8.1,37.9,-8.9,2012
+Alt Camp,Vila-rodona,287,14,20.2,9.6,33.3,-2.1,2013
+Alt Empordà,Roses,24,16,20.8,11.3,35.1,-0.6,2013
+Alt Penedès,la Granada,240,15,20.8,9.2,33.8,-2.5,2013
+Alt Urgell,la Seu d'Urgell,849,11,18,4.8,32.8,-8.1,2013
+Alta Ribagorça,el Pont de Suert,823,10,18.3,3,32.7,-9.9,2013
+Anoia,els Hostalets de Pierola,316,15,21.3,10,35.4,-2.3,2013
+Bages,Sant Salvador de Guardiola,349,13,20.9,6.5,35.5,-6.6,2013
+Baix Camp,Vinyols i els Arcs,29,17,21.5,12.2,34,0.2,2013
+Baix Ebre,El Perelló,179,16,20.7,11.8,33.5,-0.9,2013
+Baix Empordà,la Bisbal d'Empordà,29,15,21.3,8.5,35.7,-5.8,2013
+Baix Llobregat,el Prat de Llobregat,8,16,21.5,11.3,33.6,-0.6,2013
+Baix Penedès,el Vendrell,59,16,21.4,10.5,33.4,-2.3,2013
+Barcelonès,Barcelona - el Raval,33,18,21,14.8,33.9,1.2,2013
+Berguedà,la Quar,873,11,17.9,6.4,32.5,-7.5,2013
+Cerdanya,Das,1097,8,16.4,0.5,31.4,-13.4,2013
+Conca de Barberà,l'Espluga de Francolí,446,14,19.4,8.2,34.9,-5.2,2013
+Garraf,Sant Pere de Ribes - PN del Garraf,161,16,21.8,11.3,35.3,-1.2,2013
+Garrigues,la Granadella,505,13,18.8,8,33.3,-4.8,2013
+Garrotxa,Olot,422,13,20.7,6.7,35.6,-6.3,2013
+Gironès,Girona,72,14,21.4,7.4,35.3,-6.1,2013
+Maresme,Vilassar de Mar,45,16,20.4,12.7,32.1,0.3,2013
+Montsià,Amposta,3,16,20.9,12.2,32.4,0.1,2013
+Noguera,Vallfogona de Balaguer,238,14,20.4,7.3,35.6,-5.6,2013
+Osona,Gurb,509,12,19.3,5.7,34.7,-7.6,2013
+Pallars Jussà,la Pobla de Segur,513,12,19.7,5.8,35.1,-7.2,2013
+Pallars Sobirà,Sort,679,11,18.6,4.7,32.7,-8.5,2013
+Pla d'Urgell,Mollerussa,247,14,20.4,7.5,36.5,-5.5,2013
+Pla de l'Estany,Banyoles,176,15,20.9,9.5,36.1,-5.4,2013
+Priorat,Falset,359,14,20.2,9.7,35.2,-2.3,2013
+Ribera d'Ebre,Vinebre,53,16,22.6,9.7,37.3,-4.3,2013
+Ripollès,Sant Pau de Segúries,852,9,16,3.2,30.3,-10.1,2013
+Segarra,Cervera,554,13,18.6,7.6,35.7,-5.4,2013
+Segrià,Raimat,286,13,19.9,7.6,34.5,-5.6,2013
+Selva,Anglès,150,14,21.5,7.4,36.7,-6.9,2013
+Solsonès,Pinós,659,11,17.5,6.2,32.8,-7.3,2013
+Tarragonès,Tarragona - Complex Educatiu,5,17,21.9,12.1,34.8,0.7,2013
+Terra Alta,Horta de St. Joan,515,14,19.4,8.8,35.8,-4,2013
+Urgell,Tàrrega,427,14,20.2,8.5,36.6,-4.1,2013
+Val d'Aran,Vielha e Mijaran,1002,9,15,4.2,32.5,-8.7,2013
+Vallès Occidental,Sabadell - Parc Agrari,258,14,20.6,8.8,34.7,-3.2,2013
+Vallès Oriental,Caldes de Montbui,176,14,21,8.1,35.2,-5.1,2013
+Alt Camp,Vila-rodona,287,15,21,10.4,33.9,-0.5,2014
+Alt Empordà,Roses,24,17,21.9,12.1,35,-0.1,2014
+Alt Penedès,la Granada,240,15,21.3,10.1,33.4,-0.6,2014
+Alt Urgell,la Seu d'Urgell,849,12,18.9,5.7,32.8,-5.6,2014
+Alta Ribagorça,el Pont de Suert,823,11,19.2,3.9,32,-7.3,2014
+Anoia,els Hostalets de Pierola,316,16,22,10.7,36.4,-1.4,2014
+Bages,Sant Salvador de Guardiola,349,14,21.6,7.3,36.6,-6.5,2014
+Baix Camp,Vinyols i els Arcs,29,17,22,12.7,33.7,0.7,2014
+Baix Ebre,El Perelló,179,16,21.2,12.7,34.5,0.8,2014
+Baix Empordà,la Bisbal d'Empordà,29,16,22.1,9.4,35.3,-2.7,2014
+Baix Llobregat,el Prat de Llobregat,8,17,22.1,12,33.1,-1.9,2014
+Baix Penedès,el Vendrell,59,16,22,11.2,32.9,-1.6,2014
+Barcelonès,Barcelona - el Raval,33,18,21.5,15.4,34,4.4,2014
+Berguedà,la Quar,873,12,18.7,7.3,31.9,-4.1,2014
+Cerdanya,Das,1097,9,17.2,1.4,29.9,-11,2014
+Conca de Barberà,l'Espluga de Francolí,446,14,20.4,9.2,34.4,-2.5,2014
+Garraf,Canyelles,148,16,21.2,10.4,32.3,-1.7,2014
+Garrigues,la Granadella,505,14,20,9.1,34.4,-4.5,2014
+Garrotxa,Olot,422,14,21.3,7.6,36.2,-3.6,2014
+Gironès,Girona,72,15,22.3,8.4,35.2,-4.4,2014
+Maresme,Vilassar de Mar,45,17,21.1,13.5,33.2,2,2014
+Montsià,Amposta,3,17,21.2,13.2,32.1,0.5,2014
+Noguera,Vallfogona de Balaguer,238,15,21.7,8.8,35.1,-5.5,2014
+Osona,Gurb,509,13,20,7,36.1,-6.6,2014
+Pallars Jussà,la Pobla de Segur,513,13,20.2,6.9,35.9,-5.8,2014
+Pallars Sobirà,Sort,679,12,19.1,5.6,33.2,-5.7,2014
+Pla d'Urgell,Mollerussa,247,15,21.6,8.7,35.8,-6.2,2014
+Pla de l'Estany,Banyoles,176,16,21.7,10.4,35.9,-2.2,2014
+Priorat,Falset,359,16,21.4,10.7,38,-3,2014
+Ribera d'Ebre,Vinebre,53,17,23.8,10.8,39.1,-4.9,2014
+Ripollès,Sant Pau de Segúries,852,10,17.1,4.7,30.5,-6.9,2014
+Segarra,Cervera,554,14,19.6,8.8,34.4,-4.9,2014
+Segrià,Raimat,286,15,21,9,34.6,-6.4,2014
+Selva,Anglès,150,15,22.1,8.6,35.4,-3.7,2014
+Solsonès,Pinós,659,12,18.4,7.3,33.1,-6,2014
+Tarragonès,Tarragona - Complex Educatiu,5,17,22.2,12.9,34.3,-1.6,2014
+Terra Alta,Horta de St. Joan,515,15,20.7,9.9,36.6,-2.4,2014
+Urgell,Tàrrega,427,15,21.2,9.8,35.1,-4.1,2014
+Val d'Aran,Vielha e Mijaran,1002,10,16.3,5.2,32.7,-8.3,2014
+Vallès Occidental,Sabadell - Parc Agrari,258,15,21.2,9.7,34.8,-2.7,2014
+Vallès Oriental,Caldes de Montbui,176,15,21.8,9,34.5,-5.4,2014
+Alt Camp,Vila-rodona,287,15.2,21.5,10.1,3.6,-2.9,2015
+Alt Empordà,Roses,24,16.6,21.8,11.7,38.2,-1.4,2015
+Alt Penedès,la Granada,240,15.3,21.9,9.7,36.7,-0.3,2015
+Alt Urgell,la Seu d'Urgell,849,12.2,20.2,5.7,38.5,-7.7,2015
+Alta Ribagorça,el Pont de Suert,823,10.8,20.1,3.7,37.1,-8.9,2015
+Anoia,els Hostalets de Pierola,316,15.7,22.6,10.5,37.9,-2.9,2015
+Aran,Vielha e Mijaran,1002,9.9,16.9,5.3,35.6,-10.4,2015
+Bages,Sant Salvador de Guardiola,349,13.9,22.3,7.1,42.5,-7.4,2015
+Baix Camp,Vinyols i els Arcs,29,1.7,22.1,12.3,35.6,-1.4,2015
+Baix Ebre,El Perelló,179,16.1,21.2,12.2,34.8,-0.6,2015
+Baix Empordà,la Bisbal d'Empordà,29,15.4,22.4,0.9,40.3,-4.8,2015
+Baix Llobregat,el Prat de Llobregat,8,16.6,22.3,11.8,35.8,0.5,2015
+Baix Penedès,el Vendrell,59,16.2,22.2,10.9,35.2,-2.4,2015
+Barcelonès,Barcelona - el Raval,33,18.2,21.7,15.4,35.3,2.9,2015
+Berguedà,la Quar,873,12.5,19.8,7.6,39.7,-6.4,2015
+Cerdanya,Das,1097,8.9,18.3,0.9,36.8,-13.1,2015
+Conca de Barberà,l'Espluga de Francolí,446,14.2,20.8,8.6,39.2,-4.9,2015
+Garraf,Canyelles,148,15.6,21.7,10.1,35.5,-0.3,2015
+Garrigues,la Granadella,505,14.3,20.3,8.7,4.1,-8.5,2015
+Garrotxa,Olot,422,1.4,2.2,7.6,40.4,-0.7,2015
+Gironès,Girona,72,14.9,2.3,7.7,41.2,-7.3,2015
+Maresme,Vilassar de Mar,81,16.6,21.1,12.6,35.5,0.2,2015
+Moianès,:,:,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,2015
+Montsià,Amposta,3,16.6,21.2,12.6,34.9,0.8,2015
+Noguera,Vallfogona de Balaguer,238,14.5,21.6,8.3,39.5,-7.7,2015
+Osona,Gurb,509,12.8,20.9,6.5,40.4,-0.7,2015
+Pallars Jussà,la Pobla de Segur,513,13.4,2.1,6.8,41.3,-6.4,2015
+Pallars Sobirà,Sort,679,11.9,20.1,5.4,36.7,-0.7,2015
+Pla d'Urgell,Mollerussa,247,14.4,21.6,7.8,41.4,-5.6,2015
+Pla de l'Estany,Banyoles,176,15.7,21.9,10.3,4.3,-4.1,2015
+Priorat,Falset,359,15.4,21.5,10.5,41.5,-4.2,2015
+Ribera d'Ebre,Vinebre,53,16.4,23.5,10.3,4.1,-5.3,2015
+Ripollès,Sant Pau de Segúries,852,10.6,18.2,4.4,36.5,-10.3,2015
+Segarra,Cervera,554,13.7,2,8.4,4,-6.6,2015
+Segrià,Raimat,286,14.3,20.8,8.5,39.3,-5.6,2015
+Selva,Anglès,150,14.8,22.7,0.8,42.9,-6.6,2015
+Solsonès,Pinós,659,12.5,1.9,7.1,39.1,-9.2,2015
+Tarragonès,Tarragona - Complex Educatiu,5,17.2,22.3,12.5,36.1,-1.3,2015
+Terra Alta,Horta de St. Joan,515,14.7,20.6,9.6,39.9,-4.2,2015
+Urgell,Tàrrega,427,14.8,21.5,9.4,42.5,-5.4,2015
+Vallès Occidental,Sabadell - Parc Agrari,258,15.5,21.8,9.7,38.9,-4.2,2015
+Vallès Oriental,Caldes de Montbui,176,14.9,2.2,8.8,39.7,-5.5,2015
+Alt Camp,Vila-rodona,287,15.3,21.7,10.3,36.8,-0.4,2016
+Alt Empordà,Roses,24,16.6,21.6,11.8,35.5,-0.9,2016
+Alt Penedès,la Granada,240,15.2,21.5,9.8,34.9,-0.7,2016
+Alt Urgell,la Seu d'Urgell,849,11.7,19.3,5.4,35.9,-7.1,2016
+Alta Ribagorça,el Pont de Suert,823,10.4,19.5,3.3,35.4,-8.4,2016
+Anoia,els Hostalets de Pierola,316,15.5,22.4,10.4,38.7,-1.4,2016
+Aran,Vielha e Mijaran,1002,9.8,16.5,5.2,34.4,-7.8,2016
+Bages,Sant Salvador de Guardiola,349,13.8,21.9,7.1,38.2,-6.5,2016
+Baix Camp,Vinyols i els Arcs,29,1.7,2.2,12.2,37.3,-1.1,2016
+Baix Ebre,El Perelló,179,1.6,21.1,12.1,38.3,-0.2,2016
+Baix Empordà,la Bisbal d'Empordà,29,15.4,22.1,9.1,36.6,-3.4,2016
+Baix Llobregat,el Prat de Llobregat,8,16.7,22.4,11.7,34.6,-0.2,2016
+Baix Penedès,el Vendrell,59,16.2,21.9,10.9,33.7,-1.2,2016
+Barcelonès,Barcelona - el Raval,33,18.2,21.5,15.4,33.5,4.6,2016
+Berguedà,la Quar,873,12.1,19.4,7.2,36.4,-6.6,2016
+Cerdanya,Das,1097,8.7,17.8,0.8,34.3,-12.7,2016
+Conca de Barberà,l'Espluga de Francolí,446,13.9,20.4,8.6,36.7,-3.1,2016
+Garraf,Canyelles,148,15.5,21.3,10.1,34.2,-0.2,2016
+Garrigues,la Granadella,505,13.9,19.9,8.6,37.3,-3.1,2016
+Garrotxa,Olot (1),433,#VALUE!,#VALUE!,#VALUE!,38.2,#VALUE!,2016
+Gironès,Girona,72,14.8,22.6,7.8,36.3,-0.7,2016
+Maresme,Cabrils,81,16.6,21.1,12.6,36.1,0.1,2016
+Moianès,:,:,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,2016
+Montsià,Amposta,3,16.5,20.9,12.7,37.1,1.2,2016
+Noguera,Vallfogona de Balaguer,238,14.3,21.1,8.1,38.2,-6.1,2016
+Osona,Gurb,509,12.8,20.5,6.6,37.8,-7.7,2016
+Pallars Jussà,la Pobla de Segur (2),508,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,2016
+Pallars Sobirà,Sort,679,11.6,19.5,5.1,3.5,-7.5,2016
+Pla d'Urgell,Mollerussa,247,14.3,21.1,8.1,37.8,-6.1,2016
+Pla de l'Estany,Banyoles,176,15.4,21.6,10.1,37.6,-2.6,2016
+Priorat,Falset,359,1.5,2.1,10.2,3.9,-2.4,2016
+Ribera d'Ebre,Vinebre,53,16.4,23.3,10.4,41.6,-3.6,2016
+Ripollès,Sant Pau de Segúries,852,10.4,17.6,4.4,33.8,-7.5,2016
+Segarra,Cervera,554,13.4,19.4,8.2,36.8,-5.6,2016
+Segrià,Raimat,286,1.4,20.5,8.3,37.2,-5.6,2016
+Selva,Anglès,150,14.8,22.3,8.1,39.3,-5.8,2016
+Solsonès,Pinós,659,12.4,1.9,6.9,36.8,-5.5,2016
+Tarragonès,Tarragona - Complex Educatiu,5,17.3,22.4,12.7,34.5,0.1,2016
+Terra Alta,Horta de St. Joan,515,14.4,20.5,9.3,37.4,-3.8,2016
+Urgell,Tàrrega,427,14.5,2.1,9.2,38.4,-3.7,2016
+Vallès Occidental,Sabadell - Parc Agrari,258,15.4,21.5,9.7,36.2,-2.2,2016
+Vallès Oriental,Caldes de Montbui,176,14.9,21.5,8.8,37.2,-5.2,2016
+Alt Camp,Vila-rodona,287,15.8,22.2,10.4,38.5,-3.6,2017
+Alt Empordà,Roses,24,16.7,2.2,11.6,37.6,-3.2,2017
+Alt Penedès,la Granada,240,15.1,21.8,9.4,37.4,-3.1,2017
+Alt Urgell,la Seu d'Urgell,849,12.2,20.2,5.4,36.6,-10.2,2017
+Alta Ribagorça,el Pont de Suert,823,10.5,20.2,0.3,35.2,-12.6,2017
+Anoia,els Hostalets de Pierola,316,15.5,22.3,10.3,37.9,-3.7,2017
+Aran,Vielha e Mijaran,1002,9.7,16.8,4.8,33.8,-12.3,2017
+Bages,Sant Salvador de Guardiola,349,13.7,22.3,6.6,40.2,-9.1,2017
+Baix Camp,Vinyols i els Arcs,29,16.9,22.1,11.7,34.6,-2.4,2017
+Baix Ebre,El Perelló,179,16.3,21.8,1.2,37.6,-1.1,2017
+Baix Empordà,la Bisbal d'Empordà,29,15.3,22.3,8.8,36.8,-5.2,2017
+Baix Llobregat,el Prat de Llobregat,8,16.5,22.6,11.5,36.3,-1.6,2017
+Baix Penedès,el Vendrell,59,16.3,22.4,10.6,38.9,-4.1,2017
+Barcelonès,Barcelona - el Raval,33,18.2,21.6,15.2,35.9,2.8,2017
+Berguedà,la Quar,873,12.5,19.9,7.3,37.8,-7.1,2017
+Cerdanya,Puigcerdà,1213,9.8,17.4,3.5,33.7,-1.5,2017
+Conca de Barberà,l'Espluga de Francolí,446,14.2,2.1,8.3,3.8,-5.3,2017
+Garraf,Canyelles,148,15.4,21.6,9.8,36.6,-4.2,2017
+Garrigues,la Granadella,505,14.1,20.5,8.2,37.3,-6.8,2017
+Garrotxa,Olot,433,13.5,21.3,6.6,3.7,-8.5,2017
+Gironès,Girona,72,14.7,23.1,7.3,38.4,-8.1,2017
+Maresme,Cabrils,81,16.5,2.1,12.4,33.7,-0.2,2017
+Moianès,Moià,735,13.7,18.7,8.6,35.1,-6,2017
+Montsià,Amposta,3,16.5,21.3,12.4,3.4,0.6,2017
+Noguera,Vallfogona de Balaguer,238,14.2,21.6,7.7,37.8,-8.7,2017
+Osona,Gurb,509,12.9,2.1,6.3,39.2,-8.1,2017
+Pallars Jussà,la Pobla de Segur,508,13.3,21.4,6.6,38.3,-8.5,2017
+Pallars Sobirà,Sort,679,1.2,20.4,4.9,36.3,-8.1,2017
+Pla d'Urgell,Mollerussa,247,14.2,21.7,7.2,38.2,-9.1,2017
+Pla de l'Estany,Banyoles,176,15.6,22.1,10.1,37.7,-0.5,2017
+Priorat,Falset,359,15.4,21.7,10.2,39.5,-6.1,2017
+Ribera d'Ebre,Vinebre,53,16.5,24.1,9.8,41.7,-0.6,2017
+Ripollès,Sant Pau de Segúries,852,10.5,18.2,4.1,34.9,-10.9,2017
+Segarra,Cervera,554,13.6,19.9,8.2,3.7,-8.3,2017
+Segrià,Raimat,286,1.4,21.2,7.7,38.7,-8.3,2017
+Selva,Anglès,150,14.7,22.6,7.6,37.8,-7.9,2017
+Solsonès,Pinós,659,12.6,19.2,0.7,36.7,-8.5,2017
+Tarragonès,Tarragona - Complex Educatiu,5,17.3,22.3,12.5,36.4,-3.3,2017
+Terra Alta,Horta de St. Joan,515,14.9,21.2,9.5,37.9,-0.5,2017
+Urgell,Tàrrega,427,14.7,21.4,0.9,38.6,-7.2,2017
+Vallès Occidental,Sabadell - Parc Agrari,258,15.4,21.7,9.4,37.7,-4.9,2017
+Vallès Oriental,Caldes de Montbui,176,14.9,21.9,8.5,36.6,-6.2,2017
+Alt Camp,Vila-rodona,287,15.7,21.3,11.1,38.5,-1.5,2018
+Alt Empordà,Roses,24,17.1,22.4,1.2,39.3,-2.4,2018
+Alt Penedès,la Granada,240,15.2,21.3,10.2,38.5,-1.8,2018
+Alt Urgell,la Seu d'Urgell,849,11.7,1.9,5.9,36.7,-10.4,2018
+Alta Ribagorça,el Pont de Suert,823,10.1,18.9,3.6,35.9,-11.7,2018
+Anoia,els Hostalets de Pierola,316,15.4,21.7,10.7,38.8,-2.3,2018
+Aran,Vielha e Mijaran,1002,9.6,16.1,4.9,32.1,-10.2,2018
+Bages,Sant Salvador de Guardiola,349,13.7,21.3,7.5,3.9,-6.6,2018
+Baix Camp,Vinyols i els Arcs,29,1.7,21.8,12.2,37.8,-0.2,2018
+Baix Ebre,El Perelló,179,16.4,21.6,12.4,39.2,-0.1,2018
+Baix Empordà,la Bisbal d'Empordà,29,15.6,22.2,9.5,37.4,-0.4,2018
+Baix Llobregat,el Prat de Llobregat,8,16.7,22.4,1.2,39.2,-0.3,2018
+Baix Penedès,el Vendrell,59,16.6,22.5,11.4,38.6,-1.9,2018
+Barcelonès,Barcelona - el Raval,33,18.2,21.6,15.4,36.9,0.1,2018
+Berguedà,la Quar,873,11.7,18.4,7.2,35.9,-8.2,2018
+Cerdanya,Puigcerdà,1213,9.3,16.3,3.7,31.1,-14.8,2018
+Conca de Barberà,l'Espluga de Francolí,446,14.3,20.3,0.9,38.2,-3.9,2018
+Garraf,Canyelles,148,15.7,21.4,10.5,37.7,-2.3,2018
+Garrigues,la Granadella,505,14.3,20.3,8.9,38.4,-4.8,2018
+Garrotxa,Olot,433,13.3,20.6,0.7,36.3,-8.1,2018
+Gironès,Girona,72,14.8,22.5,0.8,38.1,-5.7,2018
+Maresme,Cabrils,81,16.5,20.9,12.6,35.2,-0.3,2018
+Moianès,Moià,:,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,2018
+Montsià,Amposta,3,16.9,21.5,12.8,34.7,0.3,2018
+Noguera,Vallfogona de Balaguer,238,14.5,21.3,8.6,37.2,-5.8,2018
+Osona,Gurb,509,12.6,19.7,7.1,36.1,-6.1,2018
+Pallars Jussà,la Pobla de Segur,508,12.8,19.9,7.2,36.7,-6.5,2018
+Pallars Sobirà,Sort,679,11.7,19.1,5.7,35.6,-7.7,2018
+Pla d'Urgell,Mollerussa,247,14.6,21.4,8.4,38.7,-6.8,2018
+Pla de l'Estany,Banyoles,176,15.6,21.6,10.5,3.8,-3.9,2018
+Priorat,Falset,359,15.1,21.3,10.2,39.5,-3.9,2018
+Ribera d'Ebre,Vinebre,53,16.6,23.7,10.6,41.6,-4.8,2018
+Ripollès,Sant Pau de Segúries,852,10.4,17.2,4.8,31.5,-1.1,2018
+Segarra,Cervera,554,13.5,19.3,8.7,37.1,-5.4,2018
+Segrià,Raimat,286,14.4,20.8,8.6,37.2,-6.5,2018
+Selva,Anglès,150,1.5,22.3,8.8,39.2,-5.5,2018
+Solsonès,Pinós,659,12.3,18.1,7.4,35.3,-7.6,2018
+Tarragonès,Tarragona - Complex Educatiu,5,17.5,22.4,12.9,39.5,-0.3,2018
+Terra Alta,Horta de St. Joan,515,14.6,20.6,9.7,37.8,-3.5,2018
+Urgell,Tàrrega,427,14.5,20.8,9.5,38.3,-4.8,2018
+Vallès Occidental,Sabadell - Parc Agrari,258,15.3,21.2,9.9,3.8,-3.1,2018
+Vallès Oriental,Caldes de Montbui,176,15.2,21.8,9.4,37.6,-3.7,2018
+Alt Camp,Vila-rodona,287,16,21.8,10.6,38.6,-0.4,2019
+Alt Empordà,Roses,24,17,22.1,11.6,40.9,-1.4,2019
+Alt Penedès,la Granada,240,15,21.9,9.5,38.4,-1.6,2019
+Alt Urgell,la Seu d'Urgell,849,12,20.2,5.3,39,-7.1,2019
+Alta Ribagorça,el Pont de Suert,823,10,20,2.8,38.3,-9.4,2019
+Anoia,els Hostalets de Pierola,316,16,22.5,10.4,39.8,-2.1,2019
+Aran,Vielha e Mijaran,1002,10,16.5,4.7,36.5,-10,2019
+Bages,Sant Salvador de Guardiola,349,14,22.3,6.7,42.9,-6.8,2019
+Baix Camp,Vinyols i els Arcs,29,17,22.1,11.5,34.4,-1.9,2019
+Baix Ebre,El Perelló,179,17,22.2,12.3,38.6,-1.6,2019
+Baix Empordà,la Bisbal d'Empordà,29,15,22.3,8.8,40.3,-3.1,2019
+Baix Llobregat,el Prat de Llobregat,8,16,22.3,11.2,35.2,-0.3,2019
+Baix Penedès,el Vendrell,59,16,22.7,10.5,37.1,-3.7,2019
+Barcelonès,Barcelona - el Raval,33,18,21.6,15.2,36.7,3.2,2019
+Berguedà,la Quar,873,12,19.8,7,41.5,-6.1,2019
+Cerdanya,Puigcerdà,1213,10,17.3,3.6,35,-9.5,2019
+Conca de Barberà,l'Espluga de Francolí,446,14,20.7,8.3,39.9,-3.4,2019
+Garraf,Canyelles,148,16,21.7,9.8,37.3,-3.3,2019
+Garrigues,la Granadella,505,15,20.5,8.6,40.6,-5.7,2019
+Garrotxa,Olot,433,14,21.6,6.4,42.2,-7.1,2019
+Gironès,Girona,72,15,23,7.2,43.3,-7.9,2019
+Maresme,Cabrils,81,16,20.8,12.1,33.9,0.6,2019
+Moianès,Moià,..,..,..,..,..,..,2019
+Montsià,Amposta,3,17,21.8,12.9,32.9,1.6,2019
+Noguera,Vallfogona de Balaguer,238,14,21.9,7.6,40.7,-7.1,2019
+Osona,Gurb,509,13,21.2,6.3,42.7,-7.3,2019
+Pallars Jussà,la Pobla de Segur,508,13,21.3,6.5,40.2,-6.9,2019
+Pallars Sobirà,Sort,679,12,20.3,5.2,37.4,-7,2019
+Pla d'Urgell,Mollerussa,247,15,21.8,7.7,42.1,-5.7,2019
+Pla de l'Estany,Banyoles,176,16,22.2,10.2,41.2,-3.5,2019
+Priorat,Falset,359,15,21.8,10,40.5,-5,2019
+Ribera d'Ebre,Vinebre,53,17,24.1,9.8,43.5,-4.6,2019
+Ripollès,Sant Pau de Segúries,852,11,18.1,4.1,37.4,-9,2019
+Segarra,Cervera,554,14,19.8,8.4,40.4,-5.6,2019
+Segrià,Raimat,286,14,21.2,7.7,40.6,-7,2019
+Selva,Anglès,150,15,22.9,7.7,43.2,-7.1,2019
+Solsonès,Solsona,691,13,21,6.4,41.7,-6.1,2019
+Tarragonès,Tarragona - Complex Educatiu,5,17,22.2,12.4,33.2,-1.1,2019
+Terra Alta,Horta de St. Joan,515,15,21.2,9.6,40.4,-2.9,2019
+Urgell,Tàrrega,427,15,20.9,9.2,42,-5,2019
+Vallès Occidental,Sabadell - Parc Agrari,258,15,21.7,9.3,41.3,-4.7,2019
+Vallès Oriental,Caldes de Montbui,176,15,22.3,9,42.3,-5.8,2019
+Alt Camp,Vila-rodona,287,16,21.6,10.9,36.3,0.1,2020
+Alt Empordà,Roses,24,17,21.8,11.6,37.2,-2.6,2020
+Alt Penedès,la Granada,240,16,21.7,10.1,36.5,0,2020
+Alt Urgell,la Seu d'Urgell,849,12,19.5,5.9,36.6,-6.1,2020
+Alta Ribagorça,el Pont de Suert,823,11,19.6,3.7,36.1,-8.6,2020
+Anoia,els Hostalets de Pierola,316,16,22.3,10.7,38.3,-0.6,2020
+Aran,Vielha e Mijaran,1002,10,17.2,5.5,35.7,-9.1,2020
+Bages,Sant Salvador de Guardiola,349,14,21.8,7.6,39.3,-5.3,2020
+Baix Camp,Vinyols i els Arcs,29,17,22.1,11.9,34.6,-2.6,2020
+Baix Ebre,El Perelló,179,17,22.1,12.6,35.8,-1.3,2020
+Baix Empordà,la Bisbal d'Empordà,29,15,22.2,9.3,37.5,-4,2020
+Baix Llobregat,el Prat de Llobregat,8,17,22.5,11.6,35.1,0.7,2020
+Baix Penedès,el Vendrell,59,17,22.9,10.9,35.9,-2.1,2020
+Barcelonès,Barcelona - el Raval,33,18,21.7,15.5,32.8,4.7,2020
+Berguedà,la Quar,873,12,18.8,7.6,36.4,-4.8,2020
+Cerdanya,Puigcerdà,1213,10,17.2,4.1,33.8,-8.1,2020
+Conca de Barberà,l'Espluga de Francolí,446,14,20.3,8.6,38,-2.8,2020
+Garraf,Canyelles,148,16,21.7,10.3,35.4,-2.2,2020
+Garrigues,la Granadella,505,14,20.2,8.9,39.4,-3.9,2020
+Garrotxa,Olot,433,14,20.8,7.2,35.9,-4.8,2020
+Gironès,Girona,72,15,22.6,8.3,37.5,-5.5,2020
+Maresme,Cabrils,81,17,21,12.5,33.3,1.8,2020
+Moianès,Moià,..,..,..,..,..,..,2020
+Montsià,Amposta,3,17,21.6,13.2,32.7,1.6,2020
+Noguera,Vallfogona de Balaguer,238,15,21.8,8.5,39.7,-4.6,2020
+Osona,Gurb,509,13,20.6,7.2,37.9,-4.9,2020
+Pallars Jussà,la Pobla de Segur,508,13,20.7,7.1,37.9,-6.4,2020
+Pallars Sobirà,Sort,679,12,19.7,5.7,35,-6.2,2020
+Pla d'Urgell,Mollerussa,247,15,21.5,8.5,39.4,-4,2020
+Pla de l'Estany,Banyoles,176,16,21.7,10.6,38.2,-2.2,2020
+Priorat,Falset,359,15,21.7,10.3,37.6,-4.2,2020
+Ribera d'Ebre,Vinebre,53,17,23.6,10.4,40.3,-2.8,2020
+Ripollès,Sant Pau de Segúries,852,11,17.3,5,32.9,-7.1,2020
+Segarra,Cervera,554,14,19.5,8.8,38.7,-5.1,2020
+Segrià,Raimat,286,14,20.8,8.8,39.4,-4.8,2020
+Selva,Anglès,150,15,22.4,9.1,37.5,-3.2,2020
+Solsonès,Solsona,691,13,20.5,7,39.3,-4.1,2020
+Tarragonès,Tarragona - Complex Educatiu,5,17,22.1,12.9,34.3,0.1,2020
+Terra Alta,Horta de St. Joan,515,15,20.7,9.7,38.1,-2.9,2020
+Urgell,Tàrrega,427,15,20.6,9.6,40.1,-5.6,2020
+Vallès Occidental,Sabadell - Parc Agrari,258,15,21.5,9.6,37.2,-2.4,2020
+Vallès Oriental,Caldes de Montbui,176,16,22.1,9.5,36.5,-2.7,2020
+Alt Camp,Vila-rodona,287,16,21.3,10.8,37.9,-1.2,2021
+Alt Empordà,Roses,24,17,21.4,11.7,37.6,-3.8,2021
+Alt Penedès,la Granada,240,15,21.3,10,37.5,-3.2,2021
+Alt Urgell,la Seu d'Urgell,849,12,19.5,5.4,39.8,-10.1,2021
+Alta Ribagorça,el Pont de Suert,823,10,19.1,2.9,38.4,-13.2,2021
+Anoia,els Hostalets de Pierola,316,16,22.2,10.5,39.3,-3.7,2021
+Aran,Vielha e Mijaran,1002,10,16.4,4.7,37.1,-10.3,2021
+Bages,Sant Salvador de Guardiola,349,14,21.9,7.2,41.6,-6.7,2021
+Baix Camp,Vinyols i els Arcs,29,17,21.6,11.8,34.8,-3,2021
+Baix Ebre,El Perelló,179,16,21.2,12.3,36.3,-0.3,2021
+Baix Empordà,la Bisbal d'Empordà,29,15,21.8,9.1,38.8,-4.8,2021
+Baix Llobregat,el Prat de Llobregat,8,16,22.1,11.2,35.7,-2.6,2021
+Baix Penedès,el Vendrell,59,16,22.2,10.8,35.3,-3.5,2021
+Barcelonès,Barcelona - el Raval,33,18,21,15.2,35,3.6,2021
+Berguedà,la Quar,873,12,18.8,7.1,39.8,-6,2021
+Cerdanya,Puigcerdà,1213,10,16.8,3.5,36,-11.7,2021
+Conca de Barberà,l'Espluga de Francolí,446,14,19.9,8.4,38.7,-5,2021
+Garraf,Canyelles,148,16,21.4,10.2,36.5,-3.2,2021
+Garrigues,la Granadella,505,14,19.6,8.5,39,-5.4,2021
+Garrotxa,Olot,433,13,20.5,6.7,38,-7.6,2021
+Gironès,Girona,72,15,22.3,7.7,38.7,-6,2021
+Maresme,Cabrils,81,16,20.4,12.3,32.2,0.3,2021
+Moianès,Moià,..,..,..,..,..,..,2021
+Montsià,Amposta,3,17,21,13,37.6,0.1,2021
+Noguera,Vallfogona de Balaguer,238,14,21.5,8.1,39.2,-6.2,2021
+Osona,Gurb,509,13,20.9,6.6,42.5,-7.4,2021
+Pallars Jussà,la Pobla de Segur,508,13,20.6,6.5,41.8,-9.3,2021
+Pallars Sobirà,Sort,679,12,19.6,5.1,37.8,-8.8,2021
+Pla d'Urgell,Mollerussa,247,14,21.2,7.9,39.2,-7.7,2021
+Pla de l'Estany,Banyoles,176,15,21.4,10.3,40,-2.6,2021
+Priorat,Falset,359,15,20.9,9.8,39.4,-5.4,2021
+Ribera d'Ebre,Vinebre,53,16,22.9,10.1,40.7,-7.4,2021
+Ripollès,Sant Pau de Segúries,852,10,16.8,4.9,33.6,-11,2021
+Segarra,Cervera,554,13,19.3,8.4,41.2,-6.7,2021
+Segrià,Raimat,286,14,20.6,7.9,37.7,-8.4,2021
+Selva,Anglès,150,15,22.1,8.6,40.6,-4.2,2021
+Solsonès,Solsona,691,13,20.6,6.6,41.7,-8.6,2021
+Tarragonès,Tarragona - Complex Educatiu,5,17,21.5,12.8,34.5,-2.1,2021
+Terra Alta,Horta de St. Joan,515,14,20,9.4,39.6,-2.3,2021
+Urgell,Tàrrega,427,14,20.4,9.2,41.2,-7.2,2021
+Vallès Occidental,Sabadell - Parc Agrari,258,15,21.1,9.4,38,-4.6,2021
+Vallès Oriental,Caldes de Montbui,176,15,21.8,9.2,37.9,-5.1,2021
